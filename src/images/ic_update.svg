@@ -1,0 +1,7 @@
+<svg id="ic_update" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle" width="24" height="24" fill="none"/>
+  <path id="Combined_Shape" data-name="Combined Shape" d="M9.239,16.24H7a7.008,7.008,0,0,1-7-7V7A6.911,6.911,0,0,1,.77,3.81L2.791,5.831A5.746,5.746,0,0,0,2.32,8.12a5.8,5.8,0,0,0,8.85,4.931l1.987,1.987A6.956,6.956,0,0,1,9.239,16.24Zm6.231-3.811h0l-2.02-2.02a5.745,5.745,0,0,0,.471-2.288A5.8,5.8,0,0,0,5.07,3.189L3.083,1.2A6.956,6.956,0,0,1,7,0H9.239a7.008,7.008,0,0,1,7,7V9.239a6.912,6.912,0,0,1-.769,3.188Z" transform="translate(3.88 3.88)" fill="#5292eb"/>
+  <path id="Triangle" d="M5.174,0l5.174,5.174H0Z" transform="translate(0 7.06)" fill="#5292eb"/>
+  <path id="Triangle_Copy" data-name="Triangle Copy" d="M5.174,0l5.174,5.174H0Z" transform="translate(24 16.94) rotate(180)" fill="#5292eb"/>
+  <rect id="Rectangle-2" data-name="Rectangle" width="24" height="24" fill="none"/>
+</svg>
