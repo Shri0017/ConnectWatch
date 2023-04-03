@@ -15,6 +15,7 @@ const SplashScreen = ({navigation}) => {
     <View style={styles.Container}>
       <StatusBar barStyle={'light-content'} />
       <SplashLogo />
+      {/* local */}
     </View>
   );
 };
