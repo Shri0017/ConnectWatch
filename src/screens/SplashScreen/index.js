@@ -16,6 +16,7 @@ const SplashScreen = ({navigation}) => {
       <StatusBar barStyle={'light-content'} />
       <SplashLogo />
       {/* local */}
+      {/* statuss */}
     </View>
   );
 };
